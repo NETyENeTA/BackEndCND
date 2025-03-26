@@ -11,6 +11,7 @@ This link has whole code, which was dropped by VS(Visual Studio).
 Link: https://github.com/NETyENeTA/BackEndCnc.git
 
 Good bye :)
+
 ================================================================
 Чтобы запустить приложение, просто перейдите в папку "Compiled" и нажмите на файл (с раширением .exe) "DeCiDe.exe".
 Дальше Введите Имя, потом возраст.
