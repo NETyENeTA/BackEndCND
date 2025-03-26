@@ -12,9 +12,11 @@ After this, the file with name "users.txt" will be appear among files.
 Рядом с оствльными файлами появится файл "users.txt".
 ----------------------------------------------------------------
 Additional Info:
-This link has whole code, which was dropped by VS(Visual Studio):
+This link has whole code, which was dropped by VS(Visual Studio).
 Доп Инфа:
-Тут хранится весь код, который был закинут VS(Visual Studio): https://github.com/NETyENeTA/BackEndCnc.git
+Тут хранится весь код, который был закинут VS(Visual Studio).
+
+Link/Ссылка: https://github.com/NETyENeTA/BackEndCnc.git
 ---------------------------------------------------------------
 Good bye :)
 Хорошего утра|дня|вечара| ну или споки ноки :>
